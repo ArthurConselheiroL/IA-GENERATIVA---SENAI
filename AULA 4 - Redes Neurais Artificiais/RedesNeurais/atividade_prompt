@@ -1,0 +1,99 @@
+#Atividade 3 
+Atividade 3
+
+Contexto: uma escola quer fazer uma campanha de divulgação de cursos de tecnologia para os alunos
+
+Objetivo: fazer uma campanha de divulgação de cursos de tecnologia
+
+Estilo: linguagem simples de facil entendimento de jovens alunos
+
+Tom: resposta amigável e simples
+
+Público: jovens alunos de uma escola
+
+Resposta: em formato de texto para uma rede social
+
+#--------------------------------------------------------------------------------------------------
+# Atividade 4 
+1. Qual estrutura gera respostas mais completas?
+As estruturas COSTAR e CRAFT são as que geram as respostas mais completas, profundas e alinhadas à expectativa, com destaque para o COSTAR.
+
+2. Em quais situações um prompt simples é suficiente?
+O prompt simples (geralmente uma pergunta direta de uma ou duas linhas) é suficiente em situações de baixa complexidade, tarefas factuais ou fluxos exploratórios
+
+3. Quando é melhor utilizar COSTAR?
+O COSTAR deve ser a sua escolha quando o custo de uma resposta errada ou genérica for alto. Ele é ideal para:
+
+Produção de conteúdo profissional: Escrever e-mails formais de negócios, relatórios executivos ou artigos de opinião onde o tom e o público-alvo (Audience) mudam completamente a escolha das palavras.
+
+Análise de cenários complexos: Quando você precisa dar uma carga enorme de background (Context) antes de pedir uma análise (Objective), garantindo que a IA não invente premissas.
+
+Automação e padronização: Se você está criando um prompt que será reutilizado várias vezes por uma equipe ou integrado a um sistema, o COSTAR garante que a IA mantenha a consistência impecável em todas as execuções.
+
+
+# --------------------------------------------------------------------------------------------------------------
+Atividade desafio
+
+1. um plano de marketing digital
+
+# CONTEXTO (Context)
+Atuo como [posicionamento do negócio, ex: fundador de uma startup de SaaS B2B / proprietário de uma loja de e-commerce de moda sustentável]. Estamos no mercado há [tempo de mercado] e enfrentamos o desafio de [principal dor atual, ex: aumentar o volume de leads qualificados / diminuir o custo de aquisição de clientes]. Nosso produto/serviço principal consiste em [breve descrição do produto].
+
+# OBJETIVO (Objective)
+Crie um plano de marketing digital estratégico e acionável para o próximo trimestre. O plano deve focar em atração, conversão e retenção, detalhando as ações necessárias em canais digitais (como tráfego pago, marketing de conteúdo e SEO) para alcançarmos a meta de [meta específica, ex: aumentar as vendas em 20% / gerar 500 novos leads].
+
+# ESTILO (Style)
+O plano deve ser apresentado de forma estruturada, profissional e extremamente prática (passo a passo), no estilo de um consultor de growth marketing sênior. Evite jargões excessivos sem explicação e foque em estratégias que priorizem o retorno sobre o investimento (ROI).
+
+# TOM (Tone)
+O tom deve ser analítico, focado em resultados, estratégico e encorajador. Deve transmitir a autoridade de um especialista, mas ser de fácil compreensão para a execução da equipe.
+
+# PÚBLICO-ALVO (Audience)
+Este plano será lido por [quem vai ler, ex: a equipe interna de marketing e os sócios da empresa]. Além disso, as estratégias desenhadas no plano devem visar a nossa persona ideal, que é: [descrição da persona, ex: gestores de RH de médias empresas que sofrem com rotatividade de funcionários / jovens de 25 a 35 anos interessados em consumo consciente].
+
+# RESPOSTA/FORMATO (Response)
+Organize a resposta utilizando a seguinte estrutura de tópicos:
+1. Análise de Posicionamento (Onde focar para se diferenciar)
+2. Estratégia de Canais (Quais canais usar e o papel de cada um: Orgânico vs. Pago)
+3. Plano de Ação Trimestral (Dividido em Mês 1, Mês 2 e Mês 3)
+4. Métricas e KPIs (O que devemos mensurar para saber se deu certo)
+
+2. um roteiro de vídeo
+
+# CONTEXT (Contexto)
+Um canal educacional no YouTube está criando um vídeo curto sobre como a inteligência artificial ajuda médicos a diagnosticarem doenças de forma mais rápida.
+
+# OBJECTIVE (Objetivo)
+Escrever um roteiro completo de um vídeo de até 1 minuto (formato Shorts/Reels) explicando esse impacto da IA na medicina de forma simples.
+
+# STYLE (Estilo)
+Estilo dinâmico, focado em prender a atenção nos primeiros 3 segundos. Inclua indicações visuais (o que aparece na tela) e áudio (o que é falado).
+
+# TONE (Tom)
+Informativo, curioso e inspirador.
+
+# AUDIENCE (Público-alvo)
+Estudantes e entusiastas de ciência e tecnologia que consomem conteúdos rápidos na internet.
+
+# RESPONSE (Formato da Resposta)
+Roteiro dividido em duas colunas: "Vídeo (O que mostrar)" e "Áudio (Locução e efeitos sonoros)".
+
+3. uma explicação técnica de IA
+
+# CONTEXT (Contexto)
+Durante uma aula de tecnologia, surgiu a dúvida sobre como os modelos de linguagem (como o ChatGPT ou Gemini) conseguem prever a próxima palavra de uma frase.
+
+# OBJECTIVE (Objetivo)
+Explicar o conceito técnico de redes neurais artificiais e Processamento de Linguagem Natural (PLN) aplicados a esses modelos de forma didática.
+
+# STYLE (Estilo)
+Uso de analogias do dia a dia (como preencher lacunas ou predição de texto do celular) para traduzir termos técnicos complexos sem perder a precisão científica.
+
+# TONE (Tom)
+Didático, paciente e acessível.
+
+# AUDIENCE (Público-alvo)
+Alunos de ensino médio que estão tendo o primeiro contato com conceitos de programação e inteligência artificial.
+
+# RESPONSE (Formato da Resposta)
+Texto estruturado em 3 blocos: 1) O que é o conceito básico, 2) A analogia prática, 3) Como funciona na computação real.
